@@ -91,6 +91,15 @@ Menambahkan File baru pada repository
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. $ git add README.md
 File README.md berhasil ditambahkan.
 
+![IMG_20201018_195307](https://user-images.githubusercontent.com/73016496/96368105-318eef80-117c-11eb-9faa-f70e8b12a2df.JPG)
+
+
+Commit (Menyimpan perubahan ke database)
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit” $ git commit -m “File pertama saya”
+Perubahan berhasil disimpan.
+
+
+
 
 
 
