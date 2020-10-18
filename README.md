@@ -113,26 +113,44 @@ File README.md berhasil ditambahkan.
 
 ![p](https://user-images.githubusercontent.com/73016496/96368932-035fde80-1181-11eb-97c7-57596a32a786.png)
 
-
-### Membuat repository server
-
-* Isi nama repositorynya, misal: labpy1.
-* lalu klik tombol Create repository
-
-
-### Menambahkan Remote Repository
-
-* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
-* Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
-`$ git remote add origin https://github.com/veronikadesnafau/TUGASDESNA.git`
-
-
-
 ### Push (Mengirim perubahan ke server)
 
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+
+
+
+### Melihat hasilnya pada server repository
+
+* Buka laman github.com, arahkan pada repositorinya.
+* Maka perubahan akan terlihat pada laman tersebut.
+
+
+### Clone Repository
+
+* Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+* Untuk melakukan cloning, gunakan perintah `git clone [url]`
+
+
+
+### Kegunaan file README.md
+
+* Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
+* Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
+* Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/
+
+
+
+### Author : Veronika Desna Ernayanti Fau
+
+
+
+
+
+
 
 
 
