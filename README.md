@@ -114,6 +114,12 @@ File README.md berhasil ditambahkan.
 ![p](https://user-images.githubusercontent.com/73016496/96368932-035fde80-1181-11eb-97c7-57596a32a786.png)
 
 
+### Membuat repository server
+
+* Isi nama repositorynya, misal: labpy1.
+* lalu klik tombol Create repository
+
+
 ### Menambahkan Remote Repository
 
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
