@@ -113,6 +113,14 @@ File README.md berhasil ditambahkan.
 
 ![p](https://user-images.githubusercontent.com/73016496/96368932-035fde80-1181-11eb-97c7-57596a32a786.png)
 
+
+### Menambahkan Remote Repository
+
+* Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+* Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
+`$ git remote add origin https://github.com/veronikadesnafau/TUGASDESNA.git`
+
+
 ### Push (Mengirim perubahan ke server)
 
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
