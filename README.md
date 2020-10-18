@@ -119,13 +119,15 @@ File README.md berhasil ditambahkan.
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-
+![k](https://user-images.githubusercontent.com/73016496/96371331-6787a000-118b-11eb-9724-769cd83b46e4.png)
 
 
 ### Melihat hasilnya pada server repository
 
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
+
+
 
 
 ### Clone Repository
