@@ -87,6 +87,12 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File **README.md** berhasil dibuat.
 
+Menambahkan File baru pada repository
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. $ git add README.md
+File README.md berhasil ditambahkan.
+
+
+
 
 
 
