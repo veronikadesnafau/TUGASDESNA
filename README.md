@@ -127,7 +127,7 @@ File README.md berhasil ditambahkan.
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-
+![M](https://user-images.githubusercontent.com/73016496/96371345-78d0ac80-118b-11eb-9395-3f34ae93a6a3.png)
 
 
 ### Clone Repository
