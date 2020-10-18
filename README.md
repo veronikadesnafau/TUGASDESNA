@@ -135,6 +135,7 @@ File README.md berhasil ditambahkan.
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
+![t](https://user-images.githubusercontent.com/73016496/96371352-85550500-118b-11eb-82d0-eee94cdcfe62.png)
 
 
 ### Kegunaan file README.md
