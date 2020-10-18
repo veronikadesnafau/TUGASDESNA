@@ -107,6 +107,10 @@ Anda harus membuat akun terlebih dahulu.
 Pada laman github, klik tombol start a project, atau
 Dari menu (icon +) klik New Repository
 
+![p](https://user-images.githubusercontent.com/73016496/96368932-035fde80-1181-11eb-97c7-57596a32a786.png)
+
+
+
 
 
 
