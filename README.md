@@ -98,6 +98,15 @@ Commit (Menyimpan perubahan ke database)
 Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit” $ git commit -m “File pertama saya”
 Perubahan berhasil disimpan.
 
+![WhatsApp Image 2020-10-18 at 20 13 49](https://user-images.githubusercontent.com/73016496/96368765-0c03e500-1180-11eb-81d9-f0337cb80e5a.jpeg)
+
+
+Membuat repository server
+Server reopsitory yang akan kita gunakan adalah (http://github.com)
+Anda harus membuat akun terlebih dahulu.
+Pada laman github, klik tombol start a project, atau
+Dari menu (icon +) klik New Repository
+
 
 
 
